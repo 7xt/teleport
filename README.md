@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Standard Go Project Layout
 
 Translations:
@@ -191,3 +192,7 @@ Don't confuse the project level `/src` directory with the `/src` directory Go us
 
 A more opinionated project template with sample/reusable configs, scripts and code is a WIP.
 
+=======
+# frogzen
+a repository for shit things
+>>>>>>> d265f4224e6d76e4fae6929315f8c71ac4f68986
